@@ -57,6 +57,5 @@ We have developed an initial Proof of Concept (PoC) and validated:
 
 (PoC videos will be added here)
 
----
 
-## 📂 Project Structure
+ 
